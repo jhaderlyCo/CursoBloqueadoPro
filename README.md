@@ -19,6 +19,16 @@ El sistema identifica los cursos habilitados, los cursos bloqueados por prerrequ
 
 El proyecto aplica estructuras de datos como **grafos dirigidos, búsqueda en profundidad (DFS), árboles binarios de búsqueda (ABB) y listas enlazadas**.
 
+
+## 🖥️ Vista de la aplicación
+
+La siguiente imagen muestra la interfaz de CursoBloqueado Pro desarrollada en Java Swing.
+
+![Interfaz de CursoBloqueado Pro](interfaz.png)
+
+**Ejemplo:** Consulta del estudiante 2025107002, con cursos habilitados, créditos y recomendaciones académicas.
+  
+
 ##  Objetivo general
 
 Desarrollar una aplicación de orientación académica que permita analizar los cursos desaprobados, verificar los prerrequisitos y recomendar una distribución de asignaturas considerando los créditos disponibles.
